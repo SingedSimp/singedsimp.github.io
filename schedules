@@ -1,0 +1,38 @@
+{
+	"none": {
+		"mon": "break",
+		"tue": "break",
+		"wed": "break",
+		"thu": "break",
+		"fri": "break",
+		"sat": "break",
+		"sun": "break"
+	},
+	"Vox Akuma": {
+		"mon": "break",
+		"tue": "break",
+		"wed": "13:00",
+		"thu": "12:00|14:00",
+		"fri": "12:00",
+		"sat": "12:00",
+		"sun": "14:00"
+	},
+	"Mysta Rias": {
+		"mon": "13:00",
+		"tue": "13:00",
+		"wed": "13:00",
+		"thu": "13:00",
+		"fri": "15:00",
+		"sat": "13:00",
+		"sun": "break"
+	},
+	"Shu Yamino": {
+		"mon": "break",
+		"tue": "09:00",
+		"wed": "24:00",
+		"thu": "break",
+		"fri": "15:00",
+		"sat": "19:00",
+		"sun": "break"
+	}
+}
