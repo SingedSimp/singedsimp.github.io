@@ -1,3 +1,30 @@
 {
-
+    "Time 1": {
+        "name": "Rest",
+        "time": "1656338400"
+    },
+    "Time 2": {
+        "name": "Rest",
+        "time": "1656421200"
+    },
+    "Time 3": {
+        "name": "The Ghost Train",
+        "time": "1656507600"
+    },
+    "Time 4": {
+        "name": "The Quarry (finishing it)",
+        "time": "1656594000"
+    },
+    "Time 5": {
+        "name": "Project Diva",
+        "time": "1656680400"
+    },
+    "Time 6": {
+        "name": "Genshin Impact",
+        "time": "1656770400"
+    },
+    "Time 7": {
+        "name": "Undertale Pacifist",
+        "time": "1656853200"
+    }
 }
